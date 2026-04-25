@@ -5,3 +5,10 @@
 .team li {
   background-color: #fff;
 }
+
+.team h2,
+.team h3,
+.team p {
+  text-align: center;
+  letter-spacing: 0.02em;
+}

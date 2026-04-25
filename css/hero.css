@@ -5,6 +5,7 @@
 
 .hero h1 {
   text-align: center;
+  letter-spacing: 0.02em;
 }
 
 .hero button {
@@ -12,7 +13,7 @@
   color: #fff;
   font-weight: 500;
   line-height: 1.5;
-  letter-spacing: 4%;
+  letter-spacing: 0.04em;
 }
 
 .hero button:hover,
