@@ -1,0 +1,14 @@
+.navigation {
+  color: #2e2f42;
+  font-weight: 500;
+}
+
+.navigation a:hover,
+.navigation a:focus {
+  color: #404bbf;
+}
+
+.contacts a:hover,
+.contacts a:focus {
+  color: #404bbf;
+}
